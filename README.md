@@ -1,8 +1,11 @@
+
 # MacFrameGen
 
 **GTA 6 at 60 fps on a Mac, from a 30 fps console, with a $25 capture card.**
 
 [![Side by side: the console's 30 fps picture and the same footage at 60 fps](docs/demo.gif)](docs/demo.mp4)
+
+https://github.com/user-attachments/assets/30caf645-6268-4b8b-a764-bce7f4133b9e
 
 *Left: what the console sends. Right: the same footage with a generated frame between each pair. Slowed down so
 the difference survives a GIF; [the video](docs/demo.mp4) is sharper. The right side was made from a recording
