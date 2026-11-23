@@ -5,10 +5,10 @@
 
 https://github.com/user-attachments/assets/30caf645-6268-4b8b-a764-bce7f4133b9e
 
-*Left: what the console sends. Right: the same footage with a generated frame between each pair. Slowed down so
-the difference survives a GIF; [the video](docs/demo.mp4) is sharper. The right side was made from a recording
-with the offline tool in [Research](Research), which uses the same interpolator as the app. It is not a screen
-capture of the app running live.*
+*Left: what the console sends. Right: the same footage with a generated frame between each pair, slowed to half
+speed so the difference is easy to see. The right side was made from a recording with the offline tool in
+[Research](Research), which uses the same interpolator as the app. It is not a screen capture of the app running
+live.*
 
 GTA 6 runs at 30 fps on console. On Windows there is a growing pile of tools that use NVIDIA and AMD hardware to
 smooth it out. If you own a MacBook Pro you have had nothing, even though the Mac already ships with everything
