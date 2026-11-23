@@ -1,0 +1,11 @@
+.build/
+build/
+.local.env
+.DS_Store
+*.mp4
+*.mov
+*.MP4
+*.csv
+*.log
+Research/bin/
+.build-tsan/
